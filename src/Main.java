@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int[] array = {5,10,15,20};
-        int cows = 4;
+        int[] array = {1,2,8,4,9};
+        int cows = 3;
         Alg algorithm = new Alg();
         algorithm.search(array, cows);
     }
