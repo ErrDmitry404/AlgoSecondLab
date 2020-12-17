@@ -38,7 +38,7 @@ class Alg {
                 result.add(newList.get(i + 1) - newList.get(i));
             }
             System.out.println(result + " the distance between cows");
-            System.out.println(Collections.min(result));
+            System.out.println("Minimal value of maximum distance is: "+ (Collections.min(result)));
         }
     }
 }
