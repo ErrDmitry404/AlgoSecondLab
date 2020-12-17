@@ -1,5 +1,6 @@
 # AlgoSecondLab
-
+Instruction:
+To run whole code and algorythm, you need to run it directly from Main, otherwise it will not work properly.
 Task: 
 
 Фермер Джон побудував новий довгий загін для худоби, з N (2 <= N <= 100,000) секцій. Секції розташовуються уздовж прямої лінії в положеннях x1, ..., xN (0 <= x-i <= 1 000 000 000).
