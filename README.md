@@ -1,7 +1,7 @@
 # AlgoSecondLab
 Instruction:
 To run whole code and algorythm, you need to run it directly from Main, otherwise it will not work properly.
-In class Main yo will see: 
+In class Main you will see: 
 
 public static void main(String[] args) {
         int[] array = {1,2,8,4,9}; // array option
