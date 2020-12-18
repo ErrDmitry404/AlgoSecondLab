@@ -2,6 +2,7 @@
 Instruction:
 To run whole code and algorythm, you need to run it directly from Main, otherwise it will not work properly.
 In class Main yo will see: 
+
 public static void main(String[] args) {
         int[] array = {1,2,8,4,9}; // array option
         int angry_cows = 3;        // number of cows (need to be 3 to work properly with algorythm, to show distribution(розподіл) case, otherwise it will do search method)
